@@ -1,2 +1,2 @@
-# projek.ujikom
+# peminjaman-buku
 kelompok
